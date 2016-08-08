@@ -15,7 +15,7 @@
 				<div class="bread_crumbs">
 					<ul>
 						<li><a href="#">Главная</a></li>
-						<li class="current"> / <a href="#">О компании</a></li>
+						<li class="current"> / <a href="#"></a></li>
 					</ul>
 				</div>
 				<div class="title">
